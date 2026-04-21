@@ -1,12 +1,69 @@
 /* Intentionally empty (loaded by App.tsx). */
 
-
-h2.elementor-heading-title{
+@media (min-width: 601px) {
+  h2.elementor-heading-title{
   font-size: 3.33333rem !important;
 }
 
 h3.elementor-heading-title{
   font-size:  1.9333333333333rem !important;
 }
+
+h3.elementor-heading-title{
+  font-size:  1.9333333333333rem !important;
+}
+}
+
+@media  (max-width: 600px) {
+  h2.elementor-heading-title{
+    font-size: 35px !important;
+  }
+
+  p, li{
+    font-size: 1rem !important;
+    font-size: 85.5% !important;
+  }
+
+  h3{
+    font-size: 25px !important; 
+  }
+
+  h4{
+    font-size: 1.3333333333333rem !important; 
+    font-size: 85.5% !important;
+  }
+
+  .elementor-element-388d361 .elementor-container{
+    display: flex;
+  }
+
+  .elementor-element-388d361 .elementor-container .elementor-column{
+    width: 50%;
+  }
+
+  .elementor-609 .elementor-element.elementor-element-f191df5{
+    width: auto !important;
+    max-width: 100% !important;
+  }
+
+  .elementor-element-df27af6 .elementor-element-populated{
+    display: flex !important;
+    flex-wrap: nowrap !important;
+  }
+  .elementor-element-df27af6 .elementor-social-icons-wrapper{
+    display: flex;
+  }
+
+  .elementor-element-df27af6 img{
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+
+  .elementor-element-df27af6 a.elementor-icon{
+    font-size: 20px !important;
+  }
+}
+
+
 
  
